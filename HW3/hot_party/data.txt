@@ -1,0 +1,64 @@
+5
+New Mama 1 Apple
+New Papa 2 Banana
+New Sisi 1 Orange
+Merge Sisi Papa
+Merge Papa Mama
+
+20
+New Mimi 1 App
+New Papa 2 Bab Ban
+New Sisi 3 P egg p
+New Broo 2 Bab Ban
+New Qmao 1 A 
+New Howard 1 B 
+New Mama 2 A B 
+New Arvin 4 A A B B 
+New Piepie 2 C C 
+New Yanger 1 D
+New Uana 4 P egg p App
+Merge Sisi Mimi
+Merge Qmao Howard 
+Merge Piepie Yanger 
+New Handsome 3 C C D
+Merge 
+
+
+
+80
+New Aqw 2 A B
+New Ber 2 C D
+New Crt 4 A B C D
+New Ddfg 1 KL
+New Edf 2 A B
+New Fsgh 1 OP
+New Gdfk 2 PP UU
+New Hgre 2 OP KL
+New Iey 5 coco not or huhu opt
+New Jjrr 3 opt coco or
+New Mssdf 4 A A B B
+New Nhfd 8 A B C D A B C D
+New Ouh 1 p
+New Pwedf 4 OP KL OP KL
+New Qjhg 2 PP UU
+New Rssssss 1 TT
+Merge Qjhg Rssssss
+New Sd 4 PP UU UU PP
+New Tgr 6 Te Yq Ur fgI Ow Pe
+New Urr 2 not huhu
+New Vyy 1 rtyuio
+New Whh 6 Te Yq Ur fgI Ow Pe
+New gab 1 jojo
+New ir 1 jojo
+Merge Aqw Ber
+Merge Ddfg Fsgh
+New yy 3 PP TT UU
+Merge Jjrr Urr
+Merge
+Merge
+Merge
+a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a 
+
+
+
+

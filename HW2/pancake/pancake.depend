@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1554115336 source:c:\users\asce0\desktop\junior\dsa\hw2\pancake\main.c
+	<stdio.h>
+	<stdlib.h>
+

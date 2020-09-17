@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1560106583 source:c:\users\asce0\desktop\junior\dsa\hw4\pancake_nm\main.c
+	<stdio.h>
+	<string.h>
+	"pancake_names.h"
+
+1560106663 c:\users\asce0\desktop\junior\dsa\hw4\pancake_nm\pancake_names.h
+	<stdio.h>
+	<stdlib.h>
+
